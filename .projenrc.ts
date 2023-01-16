@@ -26,7 +26,8 @@ const project = new HybridModule({
     folder: "examples/terraform",
     providerConfig: `   
 provider "aws" {
-  region = "ap-northeast-2",
+  region = "ap-northeast-2"
+
 }
   `,
   },
