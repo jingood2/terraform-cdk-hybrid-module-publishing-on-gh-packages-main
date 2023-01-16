@@ -1,7 +1,7 @@
 # Configure Terraform
 terraform {
   # Terraform binary version constraint
-  required_version = "~> 1.1.0"
+  required_version = "~> 1.3.0"
 
   # Define all needed providers here, you can find all available providers here:
   # https://registry.terraform.io/
